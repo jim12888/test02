@@ -3,5 +3,5 @@ public class ttt {
     //sdasdasdadad
     String s1="aaa";
     String s2="aaa11assf1sfsaaaaaaaaaaaaaaaadfsfsfsfsfsfsfsfssdffsdfdffffqqqqqqqqqqqqq";
-    String s="aaa";
+    String s="aaasdsssd";
 }
